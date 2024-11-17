@@ -100,3 +100,4 @@ The query will process both fields in a single request.
 If you prefer, you can integrate Google Sheets to input data instead of CSV. Instructions to link Google Sheets will be added upon request.
 3. Error Handling
 Robust error-handling mechanisms are included to ensure smooth execution. The system will retry failed queries and notify users in case of issues.
+https://www.loom.com/share/460f04b10e364b95864ee75cc902a5cb?sid=015c4eee-0547-4682-8c7d-b78d8411795d------------------loom video link
